@@ -1,0 +1,147 @@
+html{
+  font-family: GillSans, Calibri, Trebuchet, sans-serif;
+}
+h1{
+  text-align: left;
+  font-size: 40px;
+  font-family: GillSans;
+}
+h2{
+  text-align: left;
+  font-size: 20px;
+  font-family: GillSans;
+}
+h3{
+  text-align: left;
+  font-size: 15px;
+  font-family: GillSans;
+}
+
+h4{
+  text-align: center;
+  font-size: 40px;
+  font-family: GillSans;
+}
+h5{
+  text-align: left;
+  font-size: 12px;
+  font-family: GillSans;
+  margin-top: 100px;
+}
+
+footer h5{
+  margin-top: 40px;
+}
+
+nav{
+  text-align: right;
+  font-size: 20px;
+  font-family: GillSans;
+  background-color: white;
+  height: 120px
+}
+
+nav .brand-logo, nav ul li a{
+  left: 0;
+  color: black
+}
+
+.navbar-fixed{
+  height: 120px;
+}
+
+.row.project{
+  margin-bottom: 0;
+}
+.entry-photo{
+  background-image: url("../images/entry.jpg");
+  background-size: cover;
+  background-position: center center;
+  height: 500px;
+  background-attachment: scroll;
+}
+.about-me{
+  background-image: url("../images/about-images/about_me.jpg");
+  background-size: cover;
+  height: 500px;
+  background-attachment: scroll;
+  background-position: 0 0px;
+}
+
+nav h1{
+  margin: 0;
+}
+
+.project-section{
+  height: 500px;
+  background-color: red;
+}
+
+.project-section2{
+  height: 500px;
+  background-color: rgb(247, 121, 255);
+}
+
+.project-section2.e-commerce{
+  background-color: papayawhip;
+}
+
+.project-section3{
+  height: 500px;
+  background-color: white;
+}
+
+.project-section4{
+  height: 500px;
+  background-color: rgb(9, 149, 173);
+}
+
+.project-section5{
+  height: 500px;
+  background-color: rgb(254, 253, 253);
+}
+
+.menu{
+  font-size: 20px;
+  font-family: GillSans;
+  float: right;
+  padding: 0;
+}
+
+.yoga{
+  margin-top: 64px;
+  height: 372px;
+}
+
+.cook{
+  margin-top: 64px;
+  height: 372px;
+}
+
+.explore{
+  margin-top: 64px;
+  height: 372px;
+}
+
+.iphone-frame{
+  margin-top: 64px;
+  height: 372px;
+}
+
+footer{
+  height: 300px;
+  background-color: silver;
+}
+
+footer h4{
+  margin-top: 0;
+  padding-top: 10px
+}
+
+footer a{
+  color: black;
+}
+
+.get-in-touch{
+  margin-top: 70px;
+}
